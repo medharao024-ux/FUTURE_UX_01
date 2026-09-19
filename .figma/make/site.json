@@ -1,0 +1,10 @@
+{
+  "description": "Connects users with local clinic services by analyzing key features to recommend the most relevant healthcare options nearby.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
